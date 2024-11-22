@@ -1,5 +1,5 @@
-[![LinkedIn Follow](https://img.shields.io/badge/Connect-%40YourLinkedInHandle-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/arthurbrit0)
-[![GitHub Follow](https://img.shields.io/badge/follow-%40YourGitHubHandle-black?logo=github&style=for-the-badge)](https://github.com/arthurbrit0)
+[![LinkedIn Follow](https://img.shields.io/badge/Connect-%40arthurbrit0-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/arthurbrit0)
+[![GitHub Follow](https://img.shields.io/badge/follow-%40arthurbrit0-black?logo=github&style=for-the-badge)](https://github.com/arthurbrit0)
 
 # Olá 👋 Me chamo Arthur Brito!
 
@@ -13,8 +13,8 @@
 
 ## Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurbrit0-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/seuperfillinkedin)  
-[![GitHub](https://img.shields.io/badge/GitHub-YourGitHubHandle-black?logo=github&style=social)](https://github.com/SeuPerfilGitHub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurbrit0-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/arthurbrit0)  
+[![GitHub](https://img.shields.io/badge/GitHub-arthurbrit0-black?logo=github&style=social)](https://github.com/arthurbrit0)
 
 ## Linguagens e Ferramentas
 
