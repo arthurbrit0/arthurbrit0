@@ -1,6 +1,3 @@
-[![LinkedIn Follow](https://img.shields.io/badge/Connect-%40arthurbrit0-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/arthurbrit0)
-[![GitHub Follow](https://img.shields.io/badge/follow-%40arthurbrit0-black?logo=github&style=for-the-badge)](https://github.com/arthurbrit0)
-
 # Olá 👋 Me chamo Arthur Brito!
 
 ## Sobre mim
@@ -29,7 +26,6 @@
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />](#)
 [<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />](#)
 [<img align="left" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />](#)
-[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />](#)
 [<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />](#)
 [<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />](#)
 [<img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />](#)
