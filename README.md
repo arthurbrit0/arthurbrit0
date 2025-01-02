@@ -28,8 +28,6 @@
 [<img align="left" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />](#)
 [<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />](#)
 [<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />](#)
-[<img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />](#)
-[<img align="left" alt=".NET" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" />](#)
 
 <br />
 <br />
