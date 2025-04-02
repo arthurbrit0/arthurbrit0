@@ -2,11 +2,10 @@
 
 ## Sobre mim
 
-**Estudante de Ciência da Comptuação em constante aprendizado • Entusiasta de Desenvolvimento Web e Software**
+**Acadêmico de Ciência da Computação na Universidade Federal do Ceará (UFC) - Estágio na Cod3r
 
-- 🔭 Atualmente estou aprimorando minhas habilidades com tecnologias Full Stack como **React**, **Next.js**, **Node.js**, **Django** e **.NET**.
-- 🌱 Explorando também **AWS**, **Docker**, **Java**, e **Spring Boot** para ampliar minha stack tecnológica.
-- 🤔 Aberto para colaborar em projetos!
+- 🔭 Me aprofundando em temas como Arquitetura de Software, DevOps e Segurança.
+- 🌱 Estou aberto para colaborar em projetos! Se precisar, só mandar mensagem.
 
 ## Conecte-se comigo
 
