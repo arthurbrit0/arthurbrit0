@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-**Acadêmico de Ciência da Computação na Universidade Federal do Ceará (UFC) - Estágio na Cod3r
+**Acadêmico de Ciência da Computação na Universidade Federal do Ceará (UFC) - Estágio na Cod3r**
 
 - 🔭 Me aprofundando em temas como Arquitetura de Software, DevOps e Segurança.
 - 🌱 Estou aberto para colaborar em projetos! Se precisar, só mandar mensagem.
